@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mobilization</string>
+    <string name="url_artists_list">http://download.cdn.yandex.net/mobilization-2016/artists.json</string>
+</resources>
